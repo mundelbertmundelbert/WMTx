@@ -77,7 +77,7 @@ Token Price = (Annual Revenue × Profit Margin × Buyback Share × Multiple)
 | **Base** | 5 y | 50 M | 5‑10 markets, early yield | **$0.50 – 2.00** |
 | **Bull** | 7 y | 100 M | Multi‑region scale, strong buybacks | **$10 – 30** |
 | **Long‑Term** | 10 y | 250‑400 M | 100+ markets | **$40 – 100** |
-| **Ultra Bull** | 10‑15 y | 1 B | Global footprint | **$150 – 300** |
+| **Long-Term Bull** | 10‑15 y | 1 B | Global footprint | **$150 – 300** |
 
 *Calculated via the valuation model using scenario‑specific inputs.
 
@@ -89,7 +89,7 @@ Token Price = (Annual Revenue × Profit Margin × Buyback Share × Multiple)
 - **Service payments** — data / voice settlement in WMTx  
 - **Future value‑adds** — roaming hubs, identity, edge‑cloud, etc.
 
-Locked‑supply impact: *If 30 % of supply is staked/bonded by 2027 👉 effective float < 1 billion — magnifying buyback effect.*
+Locked‑supply impact: *If 30 % of supply is used for none earth node staking by 2030 👉 effective float < 1 billion — magnifying buyback effect.*
 
 ---
 ## 6 | Speculative Cycles
