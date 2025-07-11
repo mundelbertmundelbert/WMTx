@@ -93,7 +93,8 @@ Locked‑supply impact: *If 30 % of supply is staked/bonded by 2027 👉 effec
 
 ---
 ## 6 | Speculative Cycles
-![ASTS Price Trend](asts_price_trend.png)
+<img width="2000" height="1000" alt="asts_price_trend" src="https://github.com/user-attachments/assets/7cdf3c63-44f8-4e85-b3a8-88731ef7a5ad" />
+
 
 **AST SpaceMobile (ASTS)** traded < $10 for years despite progress, then spiked +370 % on milestone news. WMTx could exhibit a similar “long flat → spike” pattern when major rollouts or partnerships hit.
 
