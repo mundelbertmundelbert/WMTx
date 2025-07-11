@@ -79,7 +79,7 @@ Token Price = (Annual Revenue × Profit Margin × Buyback Share × Multiple)
 | **Long‑Term** | 10 y | 250‑400 M | 100+ markets | **$40 – 100** |
 | **Ultra Bull** | 10‑15 y | 1 B | Global footprint | **$150 – 300** |
 
-†Calculated via the valuation model using scenario‑specific inputs.
+*Calculated via the valuation model using scenario‑specific inputs.
 
 ---
 ## 5 | Utility & Token Sinks
